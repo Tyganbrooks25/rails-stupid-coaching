@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+.title{
+
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+padding-bottom: 20px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.word{
+padding-bottom: 15px;
+font-family: 'Courier New', Courier, monospace;
+}
